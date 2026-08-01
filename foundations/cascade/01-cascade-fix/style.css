@@ -8,14 +8,15 @@ body {
   font-weight: 800;
 }
 
-.para.small-para {
+.para {
+  font-size: 22px;
+}
+p.para.small-para {
   font-size: 14px;
   /*font-weight: 800;*/
 }
 
-.para {
-  font-size: 22px;
-}
+
 
 .button {
   background-color: rgb(255, 255, 255);
