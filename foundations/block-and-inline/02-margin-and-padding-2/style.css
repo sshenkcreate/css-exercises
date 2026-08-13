@@ -16,6 +16,7 @@ body {
   background: dodgerblue;
   padding: 16px;
   display: block;
+  margin: 16px;
 }
 
 button {
