@@ -26,4 +26,5 @@ body {
 button {
   display:block;
   background: white;
+  margin: 16px 100px;
 }
