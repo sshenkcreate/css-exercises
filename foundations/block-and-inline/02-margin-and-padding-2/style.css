@@ -19,6 +19,10 @@ body {
   margin: 16px;
 }
 
+.button-container {
+  text-align: center;
+}
+
 button {
   display:block;
   background: white;
