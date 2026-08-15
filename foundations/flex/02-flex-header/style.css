@@ -3,6 +3,7 @@
   background: papayawhip;
   display: flex;
   justify-content: space-between;
+  /* align-items: center;*/
 }
 
 .logo {
@@ -11,9 +12,10 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
-  justify-content: center;
+  /*justify-content: center;
   align-items: center;
   gap:.25em;
+  * WRONG/
 
 }
 
