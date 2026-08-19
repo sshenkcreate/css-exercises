@@ -39,10 +39,14 @@ input {
 header, footer {
   display: flex;
   padding: 10px;
-  justify-content: space-around;
+  justify-content: space-between;
+  margin:10px;
   
 }
 
+footer{
+  background-color:#eee;
+}
 
 
 .left-links, .right-links {
@@ -52,12 +56,17 @@ header, footer {
 
 a{
   text-decoration: none;
+  color: black;
+  padding: 9px;
 }
 
 .left-links {
-  justify-content: flex-start;
+  display: flex;
+  justify-content: left;
 }
 
-.right-links { justify-content: flex-end;
+.right-links {
+  display: flex;
+  justify-content: right;
 
 }
